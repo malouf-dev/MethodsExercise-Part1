@@ -1,0 +1,15 @@
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\bin\Debug\net9.0\MethodsExercise.exe
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\bin\Debug\net9.0\MethodsExercise.deps.json
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\bin\Debug\net9.0\MethodsExercise.runtimeconfig.json
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\bin\Debug\net9.0\MethodsExercise.dll
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\bin\Debug\net9.0\MethodsExercise.pdb
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.sourcelink.json
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.dll
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\refint\MethodsExercise.dll
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.pdb
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\MethodsExercise.genruntimeconfig.cache
+C:\Users\Harpe\Desktop\NET9\MethodsExercise\MethodsExercise\obj\Debug\net9.0\ref\MethodsExercise.dll
